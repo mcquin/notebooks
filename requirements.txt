@@ -1,0 +1,4 @@
+ggplot
+numpy
+pandas
+scikit-learn
