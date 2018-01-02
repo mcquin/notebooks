@@ -1,3 +1,5 @@
+centrosome
+mahotas
 matplotlib
 numpy
 pandas
