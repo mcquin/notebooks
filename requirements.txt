@@ -1,7 +1,0 @@
-centrosome
-mahotas
-matplotlib
-numpy
-pandas
-scikit-image
-scikit-learn
